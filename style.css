@@ -1,0 +1,52 @@
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+/* .person-info {
+    padding-bottom: 104px;
+} */
+
+.navbar {
+    padding-top: 32px;
+    padding-bottom: 32px;
+    display: flex;
+    justify-content: space-between;
+}
+.navbar-link {
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.name {
+    font-size: 47px;
+}
+
+.photo {
+    width: 100%;
+}
+
+.about {
+    background-color: #F6F6F6;
+    text-align: center;
+}
+
+.about-title {
+    font-size: 34px;
+    margin-top: 0;
+}
+
+.about-text {
+    font-size: 18px;
+}
+
+.person-info {
+    padding-bottom: 104px;
+}
